@@ -1,6 +1,8 @@
 # Network Analysis of Game of Thrones
 
-This project is to analyze the network of characters in Game of Thrones and how it changes over the course of the books.
+This project is to analyze the network of characters in Game of Thrones and how it changes over the course of the five books of "A song of Ice and Fire" series.
+
+!["GOT Network"](https://github.com/shreyagopal/Network-Analysis-of-Game-of-Thrones/blob/master/assets/GOT_NW_Analysis.png)
 
 ## Project Description:
 Jon Snow, Daenerys Targaryen, or Tyrion Lannister? Who is the most important character in Game of Thrones? Let's see what mathematics can tell us about this!
